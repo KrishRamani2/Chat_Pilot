@@ -1,7 +1,6 @@
 
 
 # ChatPilot
-<img width="1536" height="1024" alt="948fc326-1a7f-46a7-82be-bbad1b6d1998" src="https://github.com/user-attachments/assets/61f7533b-d93f-4847-9f47-7720e678ca46" />
 
 ## Introduction
 
