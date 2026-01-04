@@ -12,15 +12,6 @@ An AI-powered chatbot designed to enhance customer engagement by providing custo
 
 To get started with ChatPilot, follow these steps:
 
-## Clone the Repository
-
-```bash
-https://github.com/RushabhRamani123/ChatPilotAI.git
-```
-
-```bash
-cd ChatPilot
-```
 
 ## Environment Variables
 
